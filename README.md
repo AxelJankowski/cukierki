@@ -1,1 +1,3 @@
 # cukierki
+
+Simple calculation program
